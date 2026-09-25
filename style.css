@@ -1,0 +1,15 @@
+#form{
+    display: flex;
+    gap: 10px;
+}
+body{
+    padding: 5px;
+    margin: 10px;
+}
+#input{
+    color: red;
+    font-size: large;
+}
+#list{
+    margin-top: 10px;
+}
